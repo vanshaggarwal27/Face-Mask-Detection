@@ -113,8 +113,8 @@ You may also need:
 *(Insert training plots for each model and dataset)*  
 
 ### Example:
-![Accuracy Plot of MobileNetV2 On Dataset 2](docs/accuracy_plot.png)  
-![Accuracy Plot of DenseNet121 On Dataset 2](docs/loss_plot.png)  
+![Accuracy Plot of MobileNetV2 On Dataset 2](Picture1.png)  
+![Accuracy Plot of DenseNet121 On Dataset 2](Picture2.png)  
 
 **Explanation:**  
 - **Accuracy Plot** – Shows model improvement over epochs for both training and validation datasets.  
