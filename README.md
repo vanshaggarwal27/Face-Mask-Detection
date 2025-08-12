@@ -76,7 +76,7 @@ You may also need:
 
 ## 🏗 Model Architecture
 
-![Architecture Diagram](docs/model_architecture.png)
+![Architecture Diagram](model_architecture.png)
 
 **Explanation of Workflow:**
 
